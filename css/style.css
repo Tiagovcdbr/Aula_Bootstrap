@@ -1,0 +1,30 @@
+body {
+    font: 20px Arial, italic;
+}
+
+.navbar {
+    background-color: rgb(3, 53, 53) ;
+}
+
+.HOME {
+    background-color: rgb(114, 134, 245);
+    color: rgb(3, 39, 71);
+}
+
+.margin {
+    padding: 3px;
+    padding-bottom: 25px;
+    
+}
+.Estrutura {
+    background-color: rgb(37, 2, 53);
+    color: rgb(159, 243, 239);
+    font: 15px Arial, italic;
+    padding-bottom: 10px;   
+}
+
+.bg-footer {
+    background-color: aquamarine;
+}
+
+
